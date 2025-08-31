@@ -66,7 +66,7 @@ This project uses both **offline Kaggle data** and the **TMDB API**:
 Clone the repo and install dependencies:  
 
 ```bash
-git clone https://github.com/<your-username>/Movie-Recommender-System.git
+git clone https://github.com/Mohd-Muzammil7052/Movie_Recommendation_System.git
 cd Movie-Recommender-System
 pip install -r requirements.txt
 ```
