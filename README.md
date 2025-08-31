@@ -105,7 +105,7 @@ streamlit run app.py
 
 * Python → Core language
 * Streamlit → Web UI for chatbot.
-- Scikit-learn → Cosine similarity
+* Scikit-learn → Cosine similarity
 + Pandas & NumPy → Data handling
 * NLTK → Text preprocessing
 * TMDB API → Movie posters & metadata
